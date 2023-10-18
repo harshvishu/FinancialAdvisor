@@ -1,0 +1,86 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.swp
+*~.nib
+*.pbxuser
+*.perspectivev3
+*.xcworkspace/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+.idea/
+*.hmap
+
+# Build products
+build/
+*.o
+*.LinkFileList
+*.hmap
+*.ipa
+*.xcarchive
+*.dSYM.zip
+*.dSYM
+*.app.dSYM
+*.build/
+*.xctest/
+
+# CocoaPods
+Pods/
+Podfile.lock
+*.xcconfig
+Pods.xcodeproj/
+
+# Carthage
+Carthage/
+
+# SPM
+.build/
+
+# User-specific files
+*.xcuserstate
+
+# Shared Xcode schemes
+*.xcscheme
+
+# Private configuration files
+*.xcconfig
+
+# Compiled storyboards
+*.storyboardc
+*.xib
+
+# AppCode
+.idea/
+
+# Code-generated files
+*.generated.swift
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Danger
+Dangerfile
+
+# Gradle
+.gradle/
+
+# Miscellaneous
+*.log
+*.booproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserdatad
+
+# Swift Package Manager
+.build/
+
+# Mint
+Mintfile
+
